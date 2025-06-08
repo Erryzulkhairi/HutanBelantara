@@ -1,0 +1,22 @@
+GameProject {
+ ID "HutanSimpan1stMIR"
+ GUID "658E7623D5319205"
+ TITLE "HutanSimpan 1stMIR"
+ Dependencies {
+  "58D0FB3206B6F859" "607969DE27849456" "5E72B9AF7AD0CC29"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

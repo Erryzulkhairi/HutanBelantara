@@ -1,0 +1,24 @@
+SCR_DestructibleBuildingEntity : "{4BE4C27399CF3B00}Prefabs/Structures/Military/Bunkers/ShelterMilitary_E_01/ShelterMilitary_E_01.et" {
+ coords 541.37 0 280.946
+}
+SCR_DestructibleBuildingEntity : "{64FAC77ECB9793CE}Prefabs/Structures/Industrial/Houses/Office_E_01/Office_E_01_tutorial.et" {
+ coords 558.486 0.37 310.926
+ angleY 103.152
+}
+$grp SCR_DestructibleBuildingEntity : "{80A5B37A1472B084}Prefabs/Structures/Industrial/Garages/Garage_E_02/Garage_E_02.et" {
+ {
+  coords 427.412 2.116 328.234
+  angleY 89.885
+ }
+ {
+  coords 426.486 2.834 357.093
+  angleX -0.895
+  angleY 90.221
+  angleZ -0.004
+ }
+}
+StaticModelEntity : "{CF1FFB7BAA1A0769}Prefabs/Structures/Military/Camps/HelipadImprovised_01/HelipadImprovised_US_01.et" {
+ coords 315.795 1.953 460.19
+ angleY 94.534
+ scale 1.89
+}
