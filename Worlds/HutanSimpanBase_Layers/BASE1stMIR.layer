@@ -5,10 +5,6 @@ SCR_DestructibleBuildingEntity : "{64FAC77ECB9793CE}Prefabs/Structures/Industria
  coords 558.486 0.37 310.926
  angleY 103.152
 }
-GenericEntity : "{6EF16E163E18D2FB}Prefabs/Structures/Huts/Hut10.et" {
- coords 387.028 28.777 152.527
- angleY 0
-}
 $grp SCR_DestructibleBuildingEntity : "{80A5B37A1472B084}Prefabs/Structures/Industrial/Garages/Garage_E_02/Garage_E_02.et" {
  {
   coords 427.412 2.116 328.234
