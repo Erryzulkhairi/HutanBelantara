@@ -1,0 +1,166 @@
+SplineShapeEntity {
+ coords 600.125 35.125 68.884
+ Points {
+  ShapePoint "{6590E35CD29DC9B9}" {
+   Position 0 -0.002 0
+  }
+  ShapePoint "{6590E35CD29DEB4C}" {
+   Position 5 -0.102 0
+  }
+  ShapePoint "{6590E35CDDE69ECD}" {
+   Position 15.715 -1.284 0.002
+  }
+  ShapePoint "{6590E35CD8F19DEB}" {
+   Position 34.561 -2.501 -3.186
+  }
+  ShapePoint "{6590E35CD9F5843B}" {
+   Position 45.805 -2.75 -4.877
+  }
+  ShapePoint "{6590E35CC67C8D0A}" {
+   Position 54.58 -2.477 -11.651
+  }
+  ShapePoint "{6590E35CC68BB0FA}" {
+   Position 58.87 -2.326 -14.032
+  }
+  ShapePoint "{6590E35CC45FEFFF}" {
+   Position 76.333 -1.736 -16.01
+  }
+  ShapePoint "{6590E35CC51D23A6}" {
+   Position 86.873 -1.587 -15.113
+  }
+  ShapePoint "{6590E35CC59510B3}" {
+   Position 102.078 -2.957 -13.888
+  }
+  ShapePoint "{6590E35CC2BDA2CD}" {
+   Position 111.385 -4.277 4.648
+  }
+  ShapePoint "{6590E35CB72B3DF1}" {
+   Position 116.753 -5.107 10.825
+  }
+  ShapePoint "{6590E35CB7DC23BE}" {
+   Position 114.733 -5.799 23.54
+  }
+  ShapePoint "{6590E35CB454CEF9}" {
+   Position 108.879 -5.734 24.27
+  }
+  ShapePoint "{6590E35CBC337010}" {
+   Position 106.521 -6.174 36.919
+  }
+  ShapePoint "{6590E35CBC57C332}" {
+   Position 93.792 -5.81 38.732
+  }
+  ShapePoint "{6590E35CBCF5AA63}" {
+   Position 82.333 -5.379 38.004
+  }
+  ShapePoint "{6590E35CBD209924}" {
+   Position 75.263 -4.989 36.168
+  }
+  ShapePoint "{6590E35CBD5793F5}" {
+   Position 69.499 -4.285 30.554
+  }
+ }
+ {
+  RoadGeneratorEntity : "{BA46C6FF0A547B99}Prefabs/WEGenerators/Roads/Dirt/RG_TrailForest_01.et" {
+   coords 0 0 0
+   FalloffStartWidth 0.1
+   {
+    RoadEntity {
+     ID "56DEE32DF6DCE905"
+     SplinePoints {
+      ShapePoint "{5256E6ED186CB7B5}" {
+       Position 0 -0.002 0
+      }
+      ShapePoint "{5256E6ED186CB58D}" {
+       Position 5 -0.102 0
+      }
+      ShapePoint "{6590E35ABEBDD049}" {
+       Position 15.715 -1.284 0.002
+      }
+      ShapePoint "{6590E35ABEBDD0F3}" {
+       Position 34.561 -2.501 -3.186
+      }
+      ShapePoint "{6590E35ABEBDD0C4}" {
+       Position 45.805 -2.75 -4.877
+      }
+      ShapePoint "{6590E35ABEBDD098}" {
+       Position 54.58 -2.477 -11.651
+      }
+      ShapePoint "{6590E35ABEBDD352}" {
+       Position 58.87 -2.326 -14.032
+      }
+      ShapePoint "{6590E35ABEBDD325}" {
+       Position 76.333 -1.736 -16.01
+      }
+      ShapePoint "{6590E35ABEBDD3FA}" {
+       Position 86.873 -1.587 -15.113
+      }
+      ShapePoint "{6590E35ABEBDD393}" {
+       Position 102.078 -2.957 -13.888
+      }
+      ShapePoint "{6590E35ABEBDD265}" {
+       Position 111.385 -4.277 4.648
+      }
+      ShapePoint "{6590E35ABEBDD238}" {
+       Position 116.753 -5.107 10.825
+      }
+      ShapePoint "{6590E35ABEBDD20F}" {
+       Position 114.733 -5.799 23.54
+      }
+      ShapePoint "{6590E35ABEBDD2C2}" {
+       Position 108.879 -5.734 24.27
+      }
+      ShapePoint "{6590E35ABEBDD291}" {
+       Position 106.521 -6.174 36.919
+      }
+      ShapePoint "{6590E35ABEBDDD67}" {
+       Position 93.792 -5.81 38.732
+      }
+      ShapePoint "{6590E35ABEBDDD3E}" {
+       Position 82.333 -5.379 38.004
+      }
+      ShapePoint "{6590E35ABEBDDDF0}" {
+       Position 75.263 -4.989 36.168
+      }
+      ShapePoint "{6590E35ABEBDDDC7}" {
+       Position 69.499 -4.285 30.554
+      }
+     }
+     IsClosedSpline 0
+     Width 1.75
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{19909C2558A69BE5}Prefabs/Structures/Huts/NewHut6.et" {
+ coords 586.806 35.531 72.095
+ angleY -81.195
+}
+SCR_DestructibleBuildingEntity : "{48F08DFD910E9DFC}Prefabs/Structures/Huts/NewHut2.et" {
+ coords 695.522 29.183 94.38
+ angleY -88.007
+}
+SCR_DestructibleBuildingEntity : "{5779AE75E061DA55}Prefabs/Structures/Huts/Hut_5.et" {
+ coords 583.27 34.625 174.722
+ angleY 0
+}
+SCR_DestructibleBuildingEntity : "{63F8D655B27F898B}Prefabs/Structures/Huts/NewHut8.et" {
+ coords 691.162 34.395 41.911
+ angleY -175.391
+}
+SCR_DestructibleBuildingEntity : "{7501F1305C50603B}Prefabs/Structures/Huts/Jungle_Hut.et" {
+ coords 331.828 30.069 143.948
+ angleY 0
+}
+SCR_DestructibleBuildingEntity : "{98463C5A9119D388}Prefabs/Structures/Huts/NewHutTarp.et" {
+ coords 664.197 31.507 93.061
+ angleY 163.826
+}
+SCR_DestructibleBuildingEntity : "{AD6CC1049DEB0A97}Prefabs/Structures/Huts/NewHut3.et" {
+ coords 606.502 31.094 162.038
+ angleY 0
+}
+SCR_DestructibleBuildingEntity : "{E9A10DB6F4EBF3D4}Prefabs/Structures/Huts/NewHutComm.et" {
+ coords 663.295 33.355 47.138
+ angleY 178.456
+}
