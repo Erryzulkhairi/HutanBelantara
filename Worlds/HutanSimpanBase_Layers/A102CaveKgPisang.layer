@@ -1,13 +1,13 @@
 $grp SCR_IndestructibleEnvironmentalEntity : "{038844285FEE0D7A}Prefabs/Rocks/Granite/GraniteStone_01.et" {
  {
-  coords 460.403 -0 168.722
+  coords 460.403 0 168.722
   angleX -80.746
   angleY 122.82
   angleZ -41.469
   scale 0.944
  }
  {
-  coords 480.061 -0 195.717
+  coords 480.061 0 195.717
   angleX -22.888
   angleY -163.429
   angleZ -3.186
@@ -36,7 +36,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{038844285FEE0D7A}Prefabs/Rocks/Gr
  }
 }
 Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
- coords 515.516 -0 104.855
+ coords 515.516 0 104.855
  angleX -0.174
  angleY 41.606
  angleZ -1.554
@@ -44,21 +44,21 @@ Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{1AB01E99A27B8178}Prefabs/Rocks/Granite/Granite_BeachCluster_01_Fucus.et" {
  {
-  coords 422.953 -0 194.387
+  coords 422.953 0 194.387
   angleX -7.816
   angleY 118.629
   angleZ 17.419
   scale 0.766
  }
  {
-  coords 424.734 -0 188.204
+  coords 424.734 0 188.204
   angleX -19.026
   angleY -177.302
   angleZ 0.814
   scale 0.891
  }
  {
-  coords 427.818 -0 190.686
+  coords 427.818 0 190.686
   angleX 2.04
   angleY -81.048
   angleZ -18.074
@@ -124,14 +124,14 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.806
  }
  {
-  coords 451.811 -0 145.623
+  coords 451.811 0 145.623
   angleX -34.015
   angleY 140.239
   angleZ -33.751
   scale 1.143
  }
  {
-  coords 491.933 -0 116.199
+  coords 491.933 0 116.199
   angleX 86.981
   angleY -5.092
   angleZ 66.678
@@ -173,7 +173,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.893
  }
  {
-  coords 464.291 -0 86.889
+  coords 464.291 0 86.889
   angleX 80.087
   angleY -174.776
   angleZ 133.878
@@ -187,7 +187,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.797
  }
  {
-  coords 508.927 -0 95.086
+  coords 508.927 0 95.086
   angleX -45.704
   angleY 72.825
   angleZ -108.68
@@ -208,7 +208,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.806
  }
  {
-  coords 418.962 -0 84.449
+  coords 418.962 0 84.449
   angleX 30.087
   angleY 2.131
   angleZ 49.533
@@ -221,7 +221,7 @@ SCR_IndestructibleEnvironmentalEntity : "{1FFB6B5828D2B35F}Prefabs/Rocks/Granite
 }
 $grp Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w.et" {
  {
-  coords 494.252 -0 66.856
+  coords 494.252 0 66.856
   angleX -9.618
   angleY 17.786
   angleZ 7.524
@@ -235,7 +235,7 @@ $grp Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w.et" {
   scale 1.01
  }
  {
-  coords 485.339 -0 66.488
+  coords 485.339 0 66.488
   angleX -6.79
   angleY -3.228
   angleZ 4.002
@@ -284,7 +284,7 @@ $grp Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w.et" {
   scale 1.066
  }
  {
-  coords 507.852 -0 91.25
+  coords 507.852 0 91.25
   angleX 3.726
   angleY -58.639
   angleZ -12.957
@@ -383,7 +383,7 @@ $grp Tree : "{2B532EC12F7FB1DE}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.817
  }
  {
-  coords 494.384 -0 170.914
+  coords 494.384 0 170.914
   angleX -0.107
   angleY -132.862
   scale 0.835
@@ -398,7 +398,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 1.134
  }
  {
-  coords 475.388 2.533 111.849
+  coords 475.388 0.553 111.849
   angleX 0.987
   angleY 173.578
   angleZ 0.281
@@ -419,7 +419,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.963
  }
  {
-  coords 490.273 -0 117.316
+  coords 490.273 0 117.316
   angleX 1.174
   angleY 141.157
   angleZ 2.6
@@ -454,14 +454,14 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.854
  }
  {
-  coords 505.325 -0 155.626
+  coords 505.325 0 155.626
   angleX 1.11
   angleY 175.556
   angleZ 2.509
   scale 1.106
  }
  {
-  coords 519.272 -0 107.957
+  coords 519.272 0 107.957
   angleX -2.563
   angleY -122.205
   angleZ 1.977
@@ -475,7 +475,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.824
  }
  {
-  coords 451.393 -0 90.509
+  coords 451.393 0 90.509
   angleX 0.399
   angleY 66.173
   angleZ -2.772
@@ -503,7 +503,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.809
  }
  {
-  coords 490.567 -0 66.507
+  coords 490.567 0 66.507
   angleX 0.965
   angleY 0.659
   angleZ -1.056
@@ -545,7 +545,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.843
  }
  {
-  coords 506.752 -0 153.494
+  coords 506.752 0 153.494
   angleX 0.539
   angleY -83.411
   angleZ 2.319
@@ -573,7 +573,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 1.198
  }
  {
-  coords 492.541 -0 171.543
+  coords 492.541 0 171.543
   angleX -3.875
   angleY -0.89
   angleZ 2.821
@@ -589,7 +589,7 @@ $grp Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
 }
 $grp Tree : "{3470A1B83A51196A}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_stump_01.et" {
  {
-  coords 463.926 -0 89.955
+  coords 463.926 0 89.955
   angleX -0.822
   angleY -24.907
   angleZ 0.11
@@ -830,7 +830,7 @@ Tree : "{45A5973AE6686EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pend
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Granite/Granite_BeachCluster_01.et" {
  {
-  coords 462.288 -0 188.949
+  coords 462.288 0 188.949
   angleX 11.818
   angleY -51.028
   angleZ -18.062
@@ -865,7 +865,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.905
  }
  {
-  coords 456.509 -0 180.727
+  coords 456.509 0 180.727
   angleX -4.628
   angleY 79.817
   angleZ -5.491
@@ -900,7 +900,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.042
  }
  {
-  coords 445.853 -0 182.246
+  coords 445.853 0 182.246
   angleX 16.905
   angleY -25.367
   angleZ -8.778
@@ -921,7 +921,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.874
  }
  {
-  coords 444.419 -0 201.272
+  coords 444.419 0 201.272
   angleX 2.029
   angleY 157.801
   angleZ 4.958
@@ -935,7 +935,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.036
  }
  {
-  coords 497.297 -0 188.375
+  coords 497.297 0 188.375
   angleX -4.93
   angleY -96.954
   angleZ -17.685
@@ -1012,21 +1012,21 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.097
  }
  {
-  coords 428.727 -0 160.988
+  coords 428.727 0 160.988
   angleX -7.124
   angleY -11.593
   angleZ 5.083
   scale 0.921
  }
  {
-  coords 432.584 -0 159.026
+  coords 432.584 0 159.026
   angleX -6.098
   angleY -46.533
   angleZ 7.675
   scale 0.872
  }
  {
-  coords 435.269 -0 156.559
+  coords 435.269 0 156.559
   angleX 7.854
   angleY 179.114
   angleZ -7.201
@@ -1040,7 +1040,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.895
  }
  {
-  coords 441.999 -0 158.023
+  coords 441.999 0 158.023
   angleX 20.82
   angleY 170.375
   angleZ 6.04
@@ -1177,7 +1177,7 @@ $grp Tree : "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.859
  }
  {
-  coords 505.805 -0 153.386
+  coords 505.805 0 153.386
   angleX -2.71
   angleY -136.191
   angleZ 2.377
@@ -1258,7 +1258,7 @@ $grp Tree : "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.914
  }
  {
-  coords 455.134 -0 134.899
+  coords 455.134 0 134.899
   angleX 1.265
   angleY -54.076
   angleZ -1.027
@@ -1279,7 +1279,7 @@ $grp Tree : "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 1.21
  }
  {
-  coords 473.615 -0 113.312
+  coords 473.615 0 113.312
   angleX 0.385
   angleY 94.266
   angleZ 0.51
@@ -1293,7 +1293,7 @@ $grp Tree : "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 1.119
  }
  {
-  coords 503.624 -0 155.498
+  coords 503.624 0 155.498
   angleX 0.714
   angleY -13.722
   angleZ -0.573
@@ -1316,7 +1316,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.987
  }
  {
-  coords 459.277 -0 198.17
+  coords 459.277 0 198.17
   angleX 7.64
   angleY -66.134
   angleZ -22.555
@@ -1351,7 +1351,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.89
  }
  {
-  coords 495.353 -0 136.083
+  coords 495.353 0 136.083
   angleX 17.749
   angleY 64.525
   angleZ -73.363
@@ -1400,21 +1400,21 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.876
  }
  {
-  coords 440.841 -0 95.092
+  coords 440.841 0 95.092
   angleX 24.11
   angleY 135.257
   angleZ 89.591
   scale 0.77
  }
  {
-  coords 469.624 -0 77.798
+  coords 469.624 0 77.798
   angleX 60.465
   angleY -133.433
   angleZ 8.454
   scale 0.993
  }
  {
-  coords 470.539 -0 102.817
+  coords 470.539 0 102.817
   angleX -11.618
   angleY -143.738
   angleZ 62.036
@@ -1608,14 +1608,14 @@ $grp Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
   scale 0.619
  }
  {
-  coords 486.661 -0 178.848
+  coords 486.661 0 178.848
   angleX 0.078
   angleY 23.226
   angleZ -1.175
   scale 0.613
  }
  {
-  coords 483.164 -0 179.363
+  coords 483.164 0 179.363
   angleX -0.99
   angleY 134.993
   angleZ 0.651
@@ -1650,7 +1650,7 @@ $grp Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
   scale 0.436
  }
  {
-  coords 456.114 -0 162.74
+  coords 456.114 0 162.74
   angleX -0.796
   angleY -54.681
   angleZ -0.382
@@ -1673,7 +1673,7 @@ $grp Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{B18F42ED694B5654}Prefabs/Rocks/Granite/Granite_Cluster_06.et" {
  {
-  coords 481.915 -0 184.876
+  coords 481.915 0 184.876
   angleX 20.427
   angleY -2.123
   angleZ -4.092
@@ -1759,7 +1759,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Gr
 }
 $grp Tree : "{B78F72C338993EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_1f.et" {
  {
-  coords 446.128 -0 91.604
+  coords 446.128 0 91.604
   angleX -3.632
   angleY 171.073
   angleZ 2.057
@@ -1773,7 +1773,7 @@ $grp Tree : "{B78F72C338993EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 1.139
  }
  {
-  coords 489.232 -0 116.635
+  coords 489.232 0 116.635
   angleX -1.798
   angleY -14.524
   angleZ 2.624
@@ -1787,7 +1787,7 @@ $grp Tree : "{B78F72C338993EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 1.095
  }
  {
-  coords 472.924 4.3 110.091
+  coords 472.924 2.426 110.091
   angleX 2.646
   angleY 2.505
   angleZ -1.079
@@ -1808,7 +1808,7 @@ $grp Tree : "{B78F72C338993EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.85
  }
  {
-  coords 503.616 -0 152.977
+  coords 503.616 0 152.977
   angleX 2.121
   angleY 142.585
   angleZ 1.765
@@ -1822,7 +1822,7 @@ $grp Tree : "{B78F72C338993EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.882
  }
  {
-  coords 491.596 -0 171.377
+  coords 491.596 0 171.377
   angleX 2.569
   angleY -172.326
   angleZ -3.412
@@ -1846,7 +1846,7 @@ $grp Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
   scale 1.168
  }
  {
-  coords 455.272 -0 156.869
+  coords 455.272 0 156.869
   angleY 4.274
   scale 1.109
  }
@@ -1881,7 +1881,7 @@ $grp Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
   scale 0.991
  }
  {
-  coords 469.694 0.942 170.284
+  coords 470.747 0 172.841
   angleY 27.236
   scale 1.139
  }
@@ -1891,12 +1891,12 @@ $grp Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
   scale 1.177
  }
  {
-  coords 459.221 -0 142.821
+  coords 459.221 0 142.821
   angleY -66.118
   scale 1.118
  }
  {
-  coords 511.595 -0 147.346
+  coords 511.595 0 147.346
   angleY 154.033
   scale 0.888
  }
@@ -1911,7 +1911,7 @@ $grp Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
   scale 0.975
  }
  {
-  coords 510.336 -0 142.815
+  coords 510.336 0 142.815
   angleY -109.746
   scale 0.916
  }
@@ -2060,14 +2060,14 @@ $grp Tree : "{C547FFD0C63A6F3E}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.951
  }
  {
-  coords 472.396 3.448 112.654
+  coords 472.396 2.907 112.654
   angleX -2.054
   angleY -121.875
   angleZ -0.556
   scale 0.86
  }
  {
-  coords 474.784 2.575 111.181
+  coords 474.784 0.64 111.181
   angleX -2.514
   angleY -84.411
   angleZ -0.066
@@ -2144,7 +2144,7 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 0.422
  }
  {
-  coords 457.57 -0 70.855
+  coords 457.57 0 70.855
   angleY 23.533
   scale 0.626
  }
@@ -2159,7 +2159,7 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 0.522
  }
  {
-  coords 425.478 -0 85.101
+  coords 425.478 0 85.101
   angleY -170.656
   scale 0.591
  }
@@ -2319,14 +2319,14 @@ $grp Tree : "{DA8942CAD83BA70C}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   scale 0.744
  }
  {
-  coords 516.741 -0 110.616
+  coords 516.741 0 110.616
   angleX 0.896
   angleY 70.49
   angleZ -1.881
   scale 1.038
  }
  {
-  coords 470.583 0.949 167.464
+  coords 463.53 -0 167.055
   angleX 1.424
   angleY 29.268
   angleZ 0.077
@@ -2334,7 +2334,7 @@ $grp Tree : "{DA8942CAD83BA70C}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
  }
 }
 SCR_IndestructibleEnvironmentalEntity : "{DDDB760DD58FD97A}Prefabs/Rocks/Granite/Granite_Cluster_05.et" {
- coords 453.849 -0 170.848
+ coords 453.849 0 170.848
  angleX 18.16
  angleY 0.424
  angleZ 0.983
