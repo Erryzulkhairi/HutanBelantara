@@ -89,6 +89,16 @@ Tree : "{1DF7655ED7FBDF2D}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pend
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02.et" {
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3376220}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 433.616 0 179.016
   angleX 3.042
   angleY -80.679
@@ -96,6 +106,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 1.066
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3377579}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 506.541 0 165.781
   angleX 19.166
   angleY -74.907
@@ -103,6 +123,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.963
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3374BF1}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 473.294 -0.001 197.457
   angleX 7.048
   angleY 77.243
@@ -110,6 +140,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 1.079
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A337422F}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 469.769 6.98 150.52
   angleX -66.502
   angleY -38.744
@@ -117,6 +157,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 1.134
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3375A18}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 454.501 0 131.669
   angleX -43.013
   angleY 161.685
@@ -124,6 +174,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.806
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3375298}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 451.811 0 145.623
   angleX -34.015
   angleY 140.239
@@ -131,6 +191,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 1.143
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334AB00}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 491.933 0 116.199
   angleX 86.981
   angleY -5.092
@@ -138,6 +208,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.828
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334A32C}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 474.269 1.517 108.941
   angleX -9.3
   angleY -79.049
@@ -145,6 +225,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.752
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334BB6A}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 456.541 0 111.515
   angleX 50.951
   angleY -145.639
@@ -152,6 +242,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.896
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334B40B}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 487.421 0 135.202
   angleX 72.221
   angleY -66.151
@@ -159,6 +259,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 1.071
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3348CFF}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 483.017 9.933 133.504
   angleX -30.351
   angleY 68.414
@@ -166,6 +276,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.894
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A33485C9}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 487.833 2.663 130.014
   angleX -4.862
   angleY 108.526
@@ -173,6 +293,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.893
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3349EF7}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 464.291 0 86.889
   angleX 80.087
   angleY -174.776
@@ -180,6 +310,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.829
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A33496F6}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 516.594 0 84.611
   angleX -46.627
   angleY -156.873
@@ -187,6 +327,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.797
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A3349012}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 508.927 0 95.086
   angleX -45.704
   angleY 72.825
@@ -194,6 +344,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 1.045
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334E8EB}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 496.965 0 77.872
   angleX 39.623
   angleY -43.222
@@ -201,6 +361,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.791
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334E012}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 492.731 1.112 121.029
   angleX 83.191
   angleY -153.105
@@ -208,6 +378,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
   scale 0.806
  }
  {
+  components {
+   MeshObject "{212B67147623C198}" {
+    Materials {
+     MaterialAssignClass "{65984213A334F652}" {
+      SourceMaterial "GraniteBoulder_02"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 418.962 0 84.449
   angleX 30.087
   angleY 2.131
@@ -216,6 +396,20 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Gr
  }
 }
 SCR_IndestructibleEnvironmentalEntity : "{1FFB6B5828D2B35F}Prefabs/Rocks/Granite/GraniteRock_03.et" {
+ components {
+  MeshObject "{1DBA26EE8EBBFCD6}" {
+   Materials {
+    MaterialAssignClass "{659842139E98A24A}" {
+     SourceMaterial "GraniteRock_03"
+     AssignedMaterial "{F9117E9B637F8B9C}Assets/Rocks/Granite/Data/GraniteRock_03_Forest.emat"
+    }
+    MaterialAssignClass "{659842139E98A22D}" {
+     SourceMaterial "GraniteRock_03_MLOD"
+     AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+    }
+   }
+  }
+ }
  coords 482.109 35.542 149.847
  angleY 110.177
 }
@@ -604,44 +798,156 @@ $grp Tree : "{3470A1B83A51196A}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
  }
 }
 SCR_IndestructibleEnvironmentalEntity : "{3CB20A890FB1B6F5}Prefabs/Rocks/Granite/GraniteSurfaceStone_02.et" {
+ components {
+  MeshObject "{60FBE7021A224B83}" {
+   Materials {
+    MaterialAssignClass "{6598420E732F63E6}" {
+     SourceMaterial "07__Default"
+     AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+    }
+    MaterialAssignClass "{6598420E732F63DD}" {
+     SourceMaterial "Common/Materials/Physics/stone"
+     AssignedMaterial "{381130A196CEE32C}Assets/Rocks/Granite/Data/GraniteSurfaceStone_02_Forest.emat"
+    }
+   }
+  }
+ }
  coords 458.301 33.704 95.744
  scale 0.864
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B149DE7}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B149DFC}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 471.697 27.158 165.142
   angleX 88.705
   angleY -180
   angleZ 146.144
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B10C667}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B10C64F}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 471.746 17.293 183.045
   angleX 62.527
   angleY -29.043
   angleZ -26.237
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17BE72}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17BE29}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 516.233 22.032 156.001
   angleX 53.351
   angleY -0.835
   angleZ -83.084
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17B39C}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17B368}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 469.374 20.813 183.405
   angleX 76.029
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B178360}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B178370}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 472.237 19.689 168.168
   angleX 27.494
   scale 0.79
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B179A8B}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B179A80}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 486.257 28.842 161.549
   angleX -0.214
   angleY 87.128
   angleZ 87.341
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17925B}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B179228}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 480.407 36.363 148.671
   angleX 88.134
   angleY -1.209
@@ -649,12 +955,40 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.76
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17E936}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17E909}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 462.167 27.416 156.834
   angleX 59.036
   angleY -80.053
   scale 0.87
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17E177}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17E14D}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 470.982 31.113 149.794
   angleX 12.082
   angleY -85.801
@@ -662,22 +996,78 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.73
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17F9B1}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17F98B}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 483.032 16.454 143.675
   angleY -177.9
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17F14B}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17F15F}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 461.181 30.055 139.396
   angleX 57.662
   angleY -105.587
   scale 0.77
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17C889}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17C884}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 477.722 31.606 129.652
   angleX -7.676
   angleY -2.343
   angleZ 107.028
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17C0A2}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17C0B8}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 474.42 37.837 138.84
   angleX 83.525
   angleY 180
@@ -685,66 +1075,234 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.79
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17D7CA}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17D7DC}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 471.142 30.989 120.738
   angleX -0.161
   angleY -178.71
   angleZ -99.985
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B172F76}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B172F4E}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 452.733 26.602 151.98
   angleX 54.079
   angleY -49.056
   angleZ 67.864
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B172620}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B172634}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 463.967 35.064 141.135
   angleX 67.673
   angleY -91.468
   angleZ -91.588
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B173E34}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B173E0C}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 466.666 30.827 105.351
   angleX 71.439
   angleY -179.984
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B173679}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B173674}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 447.743 30.228 120.606
   angleX 70.556
   angleY -93.706
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B170E9F}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B170E6C}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 501.052 19.187 162.403
   angleX 39.16
   angleY 45.721
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B170675}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B170672}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 512.159 24.214 143.06
   angleX 65.475
   angleY 107.977
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B171EC4}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B171EDF}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 486.391 17.484 122.391
   angleY 168.784
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B171777}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17174D}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 475.945 39.234 132.313
   angleX 77.936
   angleY 175.11
   angleZ -167.83
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B171076}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17104D}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 489.58 31.64 89.374
   angleX 85.244
   angleY 178.109
   angleZ -7.725
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17693F}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B17693A}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 513.021 28.146 113.232
   angleX 74.105
   angleY 134.12
   scale 0.76
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17622E}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B176225}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 515.218 28.402 117.94
   angleX -0.274
   angleY -61.959
@@ -752,27 +1310,97 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.72
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B177B3F}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B177B3A}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 518.327 12.587 101.739
   angleY -97.274
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B17732A}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B177321}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 457.997 32.428 87.036
   angleX -18.661
   angleY -136.064
   angleZ -93.083
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B174BA3}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B174BBE}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 421.56 30.3 78.379
   angleY 139.132
   angleZ -79.899
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B1743E4}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B1743FC}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 457.842 37.344 79.786
   angleX 89.482
   angleY -81.13
   angleZ 180
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B175C21}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B175C3C}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 436.511 32.58 90.805
   angleX 0.87
   angleY 88.521
@@ -780,6 +1408,20 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.64
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B1754B5}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B1754B1}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 426.415 29.132 150.527
   angleX 65.667
   angleY 18.243
@@ -787,11 +1429,39 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.65
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B14AD59}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B14AD55}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 440.782 13.002 151.415
   angleY -23.99
   scale 0.82
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B14A5FC}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B14A5FA}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 442.966 35.097 115.094
   angleX 81.335
   angleY -29.125
@@ -799,24 +1469,80 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   scale 0.73
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B14BD8C}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B14BD8B}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 462.424 15.577 178.681
   angleX 36.793
   angleY -68.551
   angleZ -28.06
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B14B500}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B14B519}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 490.688 21.245 187.841
   angleX 88.69
   angleY 106.731
   angleZ 180
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B148DC2}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B148DDB}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 497.014 32.728 164.06
   angleX 82.52
   angleY 83.829
   scale 0.71
  }
  {
+  components {
+   MeshObject "{5512A6BD398E63D1}" {
+    Materials {
+     MaterialAssignClass "{6598420E8B1485EC}" {
+      SourceMaterial "GraniteCliff_01"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E8B1485FD}" {
+      SourceMaterial "GraniteCliff_01_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 496.483 19.007 171.744
   angleY 98.769
   scale 0.52
@@ -830,6 +1556,16 @@ Tree : "{45A5973AE6686EA1}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pend
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Granite/Granite_BeachCluster_01.et" {
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138873E}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 462.288 0 188.949
   angleX 11.818
   angleY -51.028
@@ -837,6 +1573,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.855
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61389A15}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 470.271 0 185.38
   angleX -18.07
   angleY -142.57
@@ -844,6 +1590,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.126
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61389006}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 476.564 0 192.04
   angleX -2.337
   angleY -87.065
@@ -851,6 +1607,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.114
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138E5A3}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 463.218 -0.001 193.971
   angleX -14.888
   angleY 133.171
@@ -858,6 +1624,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.927
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138FCC5}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 461.555 0 184.287
   angleX -19.668
   angleY 166.535
@@ -865,6 +1641,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.905
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138F421}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 456.509 0 180.727
   angleX -4.628
   angleY 79.817
@@ -872,6 +1658,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.029
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138CB32}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 454.455 -0.001 179.487
   angleX 7.072
   angleY -140.36
@@ -879,6 +1675,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.966
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138C2BD}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 421.415 0 185.025
   angleX 14.983
   angleY -17.145
@@ -886,6 +1692,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.063
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138DACB}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 431.128 0 187.479
   angleX -14.361
   angleY -135.527
@@ -893,6 +1709,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.969
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138D31E}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 439.118 0 183.84
   angleX -11.866
   angleY -129.817
@@ -900,6 +1726,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.042
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61382BF9}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 445.853 0 182.246
   angleX 16.905
   angleY -25.367
@@ -907,6 +1743,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.007
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613824F9}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 424.902 -0.001 177.732
   angleX -15.102
   angleY 152.183
@@ -914,6 +1760,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.832
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61383DE1}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 443.927 0 197.515
   angleX -4.294
   angleY 105.018
@@ -921,6 +1777,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.874
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613836C2}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 444.419 0 201.272
   angleX 2.029
   angleY 157.801
@@ -928,6 +1794,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.919
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61380EEC}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 491.254 0.001 180.57
   angleX -20.959
   angleY -168.212
@@ -935,6 +1811,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.036
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613807D0}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 497.297 0 188.375
   angleX -4.93
   angleY -96.954
@@ -942,6 +1828,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.99
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61380091}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 502.972 0 168.491
   angleX -10.088
   angleY -125.583
@@ -949,6 +1845,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.766
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613819AD}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 510.606 0 175.447
   angleX -1.98
   angleY -108.332
@@ -956,6 +1862,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.062
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6138131C}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 513.902 0 168.285
   angleX -2.104
   angleY 110.717
@@ -963,6 +1879,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.791
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61386C61}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 520.021 0.001 167.088
   angleX 4.539
   angleY 6.546
@@ -970,6 +1896,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.98
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61386590}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 528.435 0.001 164.065
   angleX 1.377
   angleY -39.709
@@ -977,6 +1913,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.069
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61387EDE}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 525.579 0 167.717
   angleX -3
   angleY -146.995
@@ -984,6 +1930,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.115
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613877E0}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 428.903 0 184.389
   angleX -8.434
   angleY -118.327
@@ -991,6 +1947,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.992
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61387109}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 423.452 0 181.188
   angleX -17.04
   angleY -168.741
@@ -998,6 +1964,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.065
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613848F1}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 422.558 0 167.663
   angleX 9.508
   angleY -116.339
@@ -1005,6 +1981,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.843
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61384100}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 425.45 0 163.759
   angleX 8.156
   angleY -103.331
@@ -1012,6 +1998,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 1.097
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613859AD}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 428.727 0 160.988
   angleX -7.124
   angleY -11.593
@@ -1019,6 +2015,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.921
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F613852C3}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 432.584 0 159.026
   angleX -6.098
   angleY -46.533
@@ -1026,6 +2032,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.872
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6139ABE9}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 435.269 0 156.559
   angleX 7.854
   angleY 179.114
@@ -1033,6 +2049,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.961
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6139A4F1}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 438.499 0 157.16
   angleX -9.503
   angleY -49.793
@@ -1040,6 +2066,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.895
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6139BD7E}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 441.999 0 158.023
   angleX 20.82
   angleY 170.375
@@ -1047,6 +2083,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.908
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F6139B4ED}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 437.486 -0.001 158.862
   angleX -10.423
   angleY 48.718
@@ -1054,6 +2100,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
   scale 0.807
  }
  {
+  components {
+   MeshObject "{3BCAE70A6BE2B034}" {
+    Materials {
+     MaterialAssignClass "{6598420F61398AD3}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 431.122 0 161.437
   angleX 1.558
   angleY -76.124
@@ -1063,29 +2119,113 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Gr
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{50E63E69B37539DB}Prefabs/Rocks/Granite/GraniteSurfaceStone_01.et" {
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789A3435}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789A3432}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 457.599 33.089 101.266
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789AF7D5}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789AF7BD}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 473.054 33.67 96.5
   angleY -53
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789AC824}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789AC833}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 480.414 33.471 106.739
   angleY -104
   angleZ -2.527
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789ADE7A}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789ADE44}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 443.792 33.191 105.822
   angleY 155.707
   scale 0.971
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789AD4BD}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789AD4B4}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 511.957 29.316 103.502
   angleY 82.116
   angleZ -2.455
   scale 0.885
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789A2BEC}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789A2BE5}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 484.5 35.601 140.579
   angleX 10.189
   angleY 1.134
@@ -1093,46 +2233,158 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{50E63E69B37539DB}Prefabs/Rocks/Gr
   scale 0.84
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789A2439}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789A2437}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 488.327 33.972 87.063
   angleX 2.828
   angleZ 1.298
   scale 1.125
  }
  {
+  components {
+   MeshObject "{50BA26E982869D7F}" {
+    Materials {
+     MaterialAssignClass "{6598420E789A3C62}" {
+      SourceMaterial "03__Default"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+     MaterialAssignClass "{6598420E789A3C79}" {
+      SourceMaterial "Common/Materials/Physics/stone"
+      AssignedMaterial "{78B08207ACDB102B}Assets/Rocks/Granite/Data/GraniteSurfaceStone_01_Forest.emat"
+     }
+    }
+   }
+  }
   coords 448.332 39.279 77.287
   scale 1.01
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{533CDABD77C4C43E}Prefabs/Rocks/Granite/GraniteCliff_02.et" {
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD2C723}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD2C70E}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 489.054 19.139 159.699
   angleY 29.762
   scale 0.82
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD2DA4F}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD2DA41}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 477.412 30.822 149.435
   angleY -97.988
   angleZ 87.351
   scale 0.62
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD22D73}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD22D59}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 492.023 22.418 164.531
   angleX 87.436
   angleY 104.802
   angleZ -14.166
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD2213E}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD2210B}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 499.075 24.934 147.714
   angleX 55.792
   angleY 101.346
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD237F8}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD237F2}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 475.519 36.192 138.884
   angleX 88.683
   angleY -170.606
   scale 0.64
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD20F99}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD20F97}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 505.598 30.204 100.317
   angleX 71.478
   angleY 98.254
@@ -1140,6 +2392,20 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{533CDABD77C4C43E}Prefabs/Rocks/Gr
   scale 0.52
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD20793}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD2076E}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 481.321 34.174 167.492
   angleX 65.559
   angleY 24.315
@@ -1147,6 +2413,20 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{533CDABD77C4C43E}Prefabs/Rocks/Gr
   scale 0.51
  }
  {
+  components {
+   MeshObject "{5512A6BD2C7B4349}" {
+    Materials {
+     MaterialAssignClass "{65984213EFD20007}" {
+      SourceMaterial "GraniteCliff_02"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{65984213EFD20002}" {
+      SourceMaterial "GraniteCliff_02_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 484.279 34.493 165.934
   angleX 79.747
   angleY 42.499
@@ -1309,6 +2589,16 @@ $grp Tree : "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01.et" {
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AEC736}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 488.081 0 190.284
   angleX -20.547
   angleY 179.83
@@ -1316,6 +2606,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.987
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AEDB5C}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 459.277 0 198.17
   angleX 7.64
   angleY -66.134
@@ -1323,6 +2623,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.773
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AED2F2}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 451.811 -0.001 185.191
   angleX -34.548
   angleY 164.679
@@ -1330,6 +2640,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.973
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE2A98}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 459.367 -0.001 177.272
   angleX -45.139
   angleY -122.007
@@ -1337,6 +2657,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.752
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE2179}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 447.095 0 177.086
   angleX 26.736
   angleY -178.973
@@ -1344,6 +2674,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 1.104
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE39EE}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 447.762 0 132.041
   angleX 71.737
   angleY -145.452
@@ -1351,6 +2691,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.89
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE3262}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 495.353 0 136.083
   angleX 17.749
   angleY 64.525
@@ -1358,6 +2708,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.805
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE0A4E}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 450.746 0 154.048
   angleX 13.761
   angleY -139.355
@@ -1365,6 +2725,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.932
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE0350}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 478.064 0.584 174.166
   angleX 44.326
   angleY -38.475
@@ -1372,6 +2742,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.801
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE1CB0}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 483.19 3.645 108.458
   angleX -74.111
   angleY 78.027
@@ -1379,6 +2759,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.899
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE15DE}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 463.149 3.068 106.574
   angleX -51.885
   angleY -4.845
@@ -1386,6 +2776,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 1.115
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE6DF8}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 447.58 0 91.223
   angleX -45.073
   angleY 44.496
@@ -1393,6 +2793,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 1.004
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE6699}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 452.785 1.232 88.867
   angleX 40.574
   angleY 161.092
@@ -1400,6 +2810,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.876
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE7DBF}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 440.841 0 95.092
   angleX 24.11
   angleY 135.257
@@ -1407,6 +2827,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.77
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE76C8}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 469.624 0 77.798
   angleX 60.465
   angleY -133.433
@@ -1414,6 +2844,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.993
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE700E}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 470.539 0 102.817
   angleX -11.618
   angleY -143.738
@@ -1421,6 +2861,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.981
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE4962}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 431.734 0 95.054
   angleX 12.481
   angleY -116.497
@@ -1428,6 +2878,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{735E970ACBB1B473}Prefabs/Rocks/Gr
   scale 0.769
  }
  {
+  components {
+   MeshObject "{212B6702136FD08A}" {
+    Materials {
+     MaterialAssignClass "{6598420ED8AE4285}" {
+      SourceMaterial "GraniteBoulder_01"
+      AssignedMaterial "{728F3723C2E18256}Assets/Rocks/Granite/Data/GraniteBeachStone_03_Moss.emat"
+     }
+    }
+   }
+  }
   coords 458.344 1.883 100.045
   angleX -37.547
   angleY -137.85
@@ -1491,15 +2951,15 @@ EnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/ProbeEnvCave
  {
   $grp ProbeVolume {
    {
-    coords 6.317 -1.498 22.166
+    coords 5.925 -1.498 23.268
     Box BoundingVolume "{52AC89E0272CFE5F}" {
-     Size 9.895 10.721 29.848
+     Size 10.5 10.721 29.848
     }
    }
    {
-    coords 1.731 -0.738 5.414
+    coords 0.994 -0.738 5.414
     Box BoundingVolume "{52AC89E0335AE51C}" {
-     Size 14.609 10.515 37.774
+     Size 11 10.515 37.774
     }
    }
   }
@@ -1673,6 +3133,16 @@ $grp Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{B18F42ED694B5654}Prefabs/Rocks/Granite/Granite_Cluster_06.et" {
  {
+  components {
+   MeshObject "{54690D6F6EA8735A}" {
+    Materials {
+     MaterialAssignClass "{65984213C01717CB}" {
+      SourceMaterial "Granite_Cluster_04"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 481.915 0 184.876
   angleX 20.427
   angleY -2.123
@@ -1680,6 +3150,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B18F42ED694B5654}Prefabs/Rocks/Gr
   scale 0.76
  }
  {
+  components {
+   MeshObject "{54690D6F6EA8735A}" {
+    Materials {
+     MaterialAssignClass "{65984213C0170C5D}" {
+      SourceMaterial "Granite_Cluster_04"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 471.223 0 187.212
   angleX 15.377
   angleY -38.807
@@ -1687,6 +3167,16 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B18F42ED694B5654}Prefabs/Rocks/Gr
   scale 0.76
  }
  {
+  components {
+   MeshObject "{54690D6F6EA8735A}" {
+    Materials {
+     MaterialAssignClass "{65984213C0170039}" {
+      SourceMaterial "Granite_Cluster_04"
+      AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+     }
+    }
+   }
+  }
   coords 499.791 0 174.474
   angleX 12.094
   angleY 65.37
@@ -1695,6 +3185,20 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B18F42ED694B5654}Prefabs/Rocks/Gr
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Granite/GraniteCliff_03.et" {
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E551A9EA8}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E551A9EA1}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 494.972 32.238 126.414
   angleX 83.569
   angleY 90.625
@@ -1702,16 +3206,58 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Gr
   scale 0.65
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E550577E8}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E550577F1}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 478.589 25.89 135.92
   angleY 87.067
   scale 0.65
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E55054AC0}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E55054AD3}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 468.896 22.376 129.009
   angleY -89.825
   scale 0.8
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E55054133}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E55054105}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 511.264 28.234 82.245
   angleX 75.049
   angleY -171.708
@@ -1719,23 +3265,79 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Gr
   scale 0.71
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E550558B4}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E550558B2}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 455.949 27.968 84.303
   angleX -4.397
   angleY -169.218
   angleZ 80.402
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E55055061}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E55055079}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 440.58 21.387 114.553
   angleY -114.107
   scale 0.73
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E551AA6D5}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E551AA6D2}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 482.561 19.944 96.436
   angleY 121.862
   angleZ -5.254
   scale 0.77
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E551ABD9E}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E551ABD97}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 496.191 23.939 91.114
   angleX 3.995
   angleY -60.389
@@ -1743,15 +3345,57 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Gr
   scale 0.58
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E551AB58E}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E551AB584}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 479.554 12.723 173.86
   angleY 0.287
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E551A8E51}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E551A8E2D}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 497.968 14.177 160.891
   angleY 82.43
   scale 0.84
  }
  {
+  components {
+   MeshObject "{5512A6BD22B1B833}" {
+    Materials {
+     MaterialAssignClass "{6598420E551A86B3}" {
+      SourceMaterial "GraniteCliff_03"
+      AssignedMaterial "{AAC3751BF7E24DC2}Assets/Rocks/Granite/Data/GraniteBeachStone_02_Moss.emat"
+     }
+     MaterialAssignClass "{6598420E551A8684}" {
+      SourceMaterial "GraniteCliff_03_MLOD"
+      AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+     }
+    }
+   }
+  }
   coords 489.224 20.878 172.724
   angleY 150.302
   scale 0.45
@@ -2325,20 +3969,37 @@ $grp Tree : "{DA8942CAD83BA70C}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula
   angleZ -1.881
   scale 1.038
  }
- {
-  coords 463.53 -0 167.055
-  angleX 1.424
-  angleY 29.268
-  angleZ 0.077
-  scale 0.948
- }
 }
 SCR_IndestructibleEnvironmentalEntity : "{DDDB760DD58FD97A}Prefabs/Rocks/Granite/Granite_Cluster_05.et" {
+ components {
+  MeshObject "{54690D6F681A585F}" {
+   Materials {
+    MaterialAssignClass "{6598420C02F7A762}" {
+     SourceMaterial "Granite_Cluster_04"
+     AssignedMaterial "{85E1F0C94D05A7DF}Assets/Rocks/Granite/Data/GraniteBeachCluster_01_Moss.emat"
+    }
+   }
+  }
+ }
  coords 453.849 0 170.848
  angleX 18.16
  angleY 0.424
  angleZ 0.983
 }
 SCR_IndestructibleEnvironmentalEntity : "{FA6727A124372434}Prefabs/Rocks/Granite/GraniteRock_02.et" {
+ components {
+  MeshObject "{12C326F5FE9CDFDF}" {
+   Materials {
+    MaterialAssignClass "{6598420F03859211}" {
+     SourceMaterial "GraniteRock_02"
+     AssignedMaterial "{975C40C2561E6514}Assets/Rocks/Granite/Data/GraniteRock_02_Forest.emat"
+    }
+    MaterialAssignClass "{6598420F038591F7}" {
+     SourceMaterial "GraniteRock_02_MLOD"
+     AssignedMaterial "{4570C3EFF76751E3}Assets/Rocks/Granite/Data/Granite_MLOD_Forest.emat"
+    }
+   }
+  }
+ }
  coords 484.928 36.722 158.795
 }
