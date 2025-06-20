@@ -646,6 +646,21 @@ SCR_DestructibleEntity : "{D8B83A318AE3611E}Prefabs/Props/Commercial/MarketStand
  coords 578.738 35.531 75.987
  angleY 98.453
 }
+GenericEntity KgPisang : "{D92CF10D9166FD76}Prefabs/Village.et" {
+ components {
+  SCR_EditableCommentComponent "{529AB059519FE609}" {
+   m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+    Name "Kg Pisang"
+   }
+   m_sColor 0.541 0.036 0.036 1
+  }
+  SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+   DisplayName " Camp Eagle"
+   MainType "Name Settlement"
+  }
+ }
+ coords 993.029 18.248 208.204
+}
 SCR_DestructibleBuildingEntity : "{E9A10DB6F4EBF3D4}Prefabs/Structures/Huts/NewHutComm.et" {
  coords 663.295 33.183 47.138
  angleY 178.456
